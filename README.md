@@ -6,4 +6,4 @@ This is a selenium based page object model developed for NDTV website's weather 
 
 build command: mvn install
 
-usage: to me imported in the target test project to implement the workflow in a test execution framework.
+usage: to be imported in the target test/automation project to implement the workflow in a test execution framework.
