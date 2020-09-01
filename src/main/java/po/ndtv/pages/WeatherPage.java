@@ -46,7 +46,7 @@ public class WeatherPage {
 	
 	public int getTemperature() throws Exception
 	{
-		int temp = Integer.parseInt(this.mapCityDialog.getText().substring(16));
+		int temp = Integer.parseInt(this.mapCityDialog.getText().substring(17));
 		return temp;
 		
 	}
